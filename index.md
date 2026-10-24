@@ -81,3 +81,22 @@ Only after you choose a backup folder and enable automatic backup does the app w
 If you subscribe to ChargeMile premium features, payments are processed by Apple through the App Store. We do not receive or store your bank card, payment account, or complete payment information. Subscription management, cancellation, and refund policies are governed by Apple.
 
 When you first open the updated app, it stores the start and end dates of your free access on your device. To reduce repeated free access after reinstalling the app, the start date is also stored in the device's system Keychain; this item may remain after the app is uninstalled. It is used only to determine the free-access period, contains no vehicle, trip, or energy records, and is not sent to developer servers. Free-access periods are not currently guaranteed to match across devices using the same Apple Account.
+
+
+## 5. Your Data Controls
+
+You can view, edit, export, or delete data stored on your device in the app. Uninstalling the app may delete its local data. We recommend exporting a backup of important records before uninstalling.
+
+## 6. Children’s Privacy
+
+ChargeMile is not designed for children. It does not provide social networking, chat, public posting, or advertising features, and we do not knowingly collect children’s personal information.
+
+## 7. Policy Updates
+
+If the app’s features or data handling change, we will update this Privacy Policy and publish a new effective date on this page.
+
+## 8. Contact Us
+
+If you have questions about this Privacy Policy, contact:
+
+ryok@qq.com
