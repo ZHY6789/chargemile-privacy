@@ -1,6 +1,6 @@
 # ChargeMile 隐私政策
 
-生效日期：2026 年 9 月 20 日
+生效日期：2026 年 10 月 24 日
 
 ChargeMile（中文名：车主里程账本）重视你的隐私。本隐私政策说明本 App 如何处理信息。
 
@@ -22,9 +22,13 @@ ChargeMile 为本地优先应用。车辆资料、里程记录、充电或加油
 
 App 提供数据导入和导出功能。导出的备份文件由你自行选择保存位置和分享方式；请妥善保管，其中可能包含你的车辆与用车记录。
 
+只有在你主动选择备份文件夹并启用自动备份后，App 才会在保存补能记录后，将该车辆的记录写入所选文件夹中的备份文件，并在后续备份时更新该文件。备份文件可能包含车辆、补能、行程和费用信息。如果所选文件夹由 iCloud Drive 或其他云盘提供，文件是否同步到云端由该服务及你的设置决定；开发者不会接收这些备份文件。你可以在 App 设置中关闭自动备份，并自行管理所选文件夹中的文件。
+
 ## 4. 订阅与付款
 
 如你选择订阅 ChargeMile 的高级功能，付款将由 Apple App Store 处理。我们不会获取或保存你的银行卡、支付账户或完整付款信息。订阅管理、取消和退款规则以 Apple 的相关政策为准。
+
+首次打开新版 App 时，App 会在本机保存免费使用期的起始时间和截止时间。为减少卸载重装后重复领取免费期的情况，起始时间也会保存在设备的系统钥匙串中；钥匙串记录在卸载 App 后仍可能保留。此记录仅用于判断免费使用期限，不包含车辆、行程或补能数据，不会发送给开发者服务器。同一 Apple 账户在不同设备上的免费使用期限目前不保证一致。
 
 ## 5. 数据控制
 
@@ -48,7 +52,7 @@ ryok@qq.com
 
 # ChargeMile Privacy Policy
 
-Effective date: September 20, 2026
+Effective date: October 24, 2026
 
 ChargeMile values your privacy. This Privacy Policy explains how the app handles information.
 
@@ -70,6 +74,10 @@ If you choose a photo for a vehicle, it remains on your device. ChargeMile does 
 
 The app provides data import and export features. You choose where exported backup files are saved or shared. Please protect those files, as they may contain your vehicle and usage records.
 
+Only after you choose a backup folder and enable automatic backup does the app write that vehicle's records to a backup file in the selected folder after you save an energy record. Later backups update the file. A backup may contain vehicle, energy, trip, and expense information. If the selected folder is provided by iCloud Drive or another cloud-storage service, syncing depends on that service and your settings; the developer does not receive the backup files. You can turn off automatic backup in the app's settings and manage files in the selected folder yourself.
+
 ## 4. Subscriptions and Payments
 
 If you subscribe to ChargeMile premium features, payments are processed by Apple through the App Store. We do not receive or store your bank card, payment account, or complete payment information. Subscription management, cancellation, and refund policies are governed by Apple.
+
+When you first open the updated app, it stores the start and end dates of your free access on your device. To reduce repeated free access after reinstalling the app, the start date is also stored in the device's system Keychain; this item may remain after the app is uninstalled. It is used only to determine the free-access period, contains no vehicle, trip, or energy records, and is not sent to developer servers. Free-access periods are not currently guaranteed to match across devices using the same Apple Account.
